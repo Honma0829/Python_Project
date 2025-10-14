@@ -4,3 +4,5 @@ print("msg")
 
 nextmsg = "Good Morning!!"
 print(nextmsg)
+
+M = "M messege"
